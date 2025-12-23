@@ -1,0 +1,80 @@
+{
+  "huongDanCongTacDoanVien": {
+    "gioiThieuDoanVienUuTuChoDang": {
+      "title": "III. CÔNG TÁC GIỚI THIỆU ĐOÀN VIÊN ƯU TÚ CHO ĐẢNG",
+      "sections": {
+        "1": {
+          "title": "Đoàn viên ưu tú và tiêu chí công nhận đoàn viên ưu tú",
+          "khai_niem": "Đoàn viên ưu tú là những đoàn viên mà qua phân tích chất lượng đoàn viên được phân loại là đoàn viên hoàn thành xuất sắc nhiệm vụ và đã được bình chọn, công nhận là đoàn viên ưu tú; có lịch sử chính trị của bản thân và gia đình rõ ràng, có nhận thức đúng đắn về Đảng Cộng sản Việt Nam, có nguyện vọng và ý thức phấn đấu vào Đảng Cộng sản Việt Nam.",
+          "tieu_chi": [
+            "Chấp hành tốt chủ trương, đường lối của đảng, chính sách pháp luật của nhà nước và các quy định của địa phương, cơ quan, đơn vị.",
+            "Có nhận thức cơ bản về Đảng cộng sản Việt Nam, Đoàn TNCS Hồ Chí Minh.",
+            "Tham gia tích cực các hoạt động của đoàn, hội; tham gia đầy đủ các buổi sinh hoạt chi đoàn; tham gia sinh hoạt đoàn tại nơi cư trú (nếu là đoàn viên thuộc đối tượng quy định tại Hướng dẫn số 10-HD/TWĐTN-BTC ngày 29/3/2023 của Ban Bí thư Trung ương Đoàn về việc hướng dẫn đoàn viên tham gia hoạt động đoàn tại nơi cư trú giai đoạn 2023-2027).",
+            "Đạt thành tích tốt trong học tập, lao động, công tác và rèn luyện.",
+            "Được phân loại đoàn viên hoàn thành xuất sắc nhiệm vụ trong năm đề nghị xét công nhận đoàn viên ưu tú hoặc năm trước (hoặc năm học trước) liền kề."
+          ]
+        },
+        "2": {
+          "title": "Quy trình, thủ tục giới thiệu đoàn viên ưu tú cho Đảng",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Bình chọn đoàn viên ưu tú từ đoàn viên hoàn thành xuất sắc nhiệm vụ",
+              "description": "Trên cơ sở kết quả tham gia các phong trào, hoạt động của chi đoàn và hướng dẫn đánh giá, xếp loại chất lượng đoàn viên hằng năm của đoàn cấp trên, chi đoàn tiến hành phân tích chất lượng đoàn viên sau đó gửi biên bản họp và bảng tổng hợp kết quả phân loại đoàn viên lên Đoàn cấp trên trực tiếp.",
+              "process": [
+                "Ban Chấp hành Đoàn cấp cơ sở dựa trên kết quả phân tích chất lượng đoàn viên của chi đoàn, tổ chức cho đoàn viên hoàn thành xuất sắc nhiệm vụ viết bài cảm nhận về Đảng; nhận xét và đánh giá kết quả từng bài viết, chủ động trao đổi, xin ý kiến cấp ủy cơ sở về lịch sử chính trị của bản thân và gia đình đoàn viên hoàn thành xuất sắc nhiệm vụ và tiến hành bình chọn đoàn viên ưu tú.",
+                "Sau đó, gửi thông báo kết quả bình chọn đoàn viên ưu tú đến chi đoàn, chi đoàn có trách nhiệm báo cáo với chi bộ về kết quả bình chọn đoàn viên ưu tú."
+              ],
+              "notes": [
+                "Đối với Đoàn các trường đại học, cao đẳng thì việc bình chọn đoàn viên ưu tú sẽ do ban thường vụ đoàn trường thực hiện trên cơ sở kết quả bình xét và đề nghị của chi đoàn, liên chi đoàn, đoàn khoa.",
+                "Việc bình chọn đoàn viên ưu tú phải được thực hiện dựa trên số lượng đoàn viên hoàn thành xuất sắc nhiệm vụ hàng năm của chi đoàn. Đoàn viên ưu tú của năm hiện tại phải là đoàn viên xuất sắc của năm trước (hoặc năm học trước) liền kề."
+              ]
+            },
+            {
+              "step": 2,
+              "title": "Trao danh sách đoàn viên ưu tú cho cấp ủy Đảng",
+              "description": "Các cấp bộ đoàn (trọng tâm là cấp cơ sở và cấp huyện, những nơi có điều kiện thuận lợi thì Ban Thường vụ Đoàn cấp tỉnh) tiến hành tổng hợp và trao danh sách đoàn viên ưu tú cho cấp uỷ Đảng (kèm theo sơ lược quá trình phấn đấu của đoàn viên ưu tú) để cấp ủy xem xét công nhận, đưa vào diện đối tượng Đảng.",
+              "ho_so": [
+                "Danh sách đoàn viên ưu tú.",
+                "Trích ngang thành tích quá trình phấn đấu học tập, lao động, rèn luyện của từng đoàn viên ưu tú."
+              ],
+              "notes": [
+                "Lễ trao danh sách đoàn viên ưu tú cho cấp ủy Đảng phải được tổ chức trang trọng, nên thực hiện trong những dịp kỷ niệm, các ngày lễ, ngày truyền thống của đất nước, của Đảng, của Đoàn và của địa phương, đơn vị.",
+                "Trường hợp những đoàn viên ưu tú đã được bình chọn từ 02 năm liên tiếp trở lên nhưng chưa được kết nạp vào Đảng hoặc công nhận là đối tượng Đảng, tổ chức cơ sở đoàn cần lưu ý: Trao đổi với cấp ủy để nắm rõ nguyên nhân đoàn viên ưu tú chưa được kết nạp vào Đảng hoặc công nhận là đối tượng Đảng để có hướng tháo gỡ khó khăn về thủ tục hoặc có biện pháp bồi dưỡng, giúp đỡ phù hợp. Hướng dẫn cho đoàn viên ưu tú hướng khắc phục."
+              ]
+            },
+            {
+              "step": 3,
+              "title": "Bồi dưỡng, hướng dẫn đoàn viên ưu tú phấn đấu rèn luyện",
+              "description": "Khi cấp ủy đã công nhận đoàn viên ưu tú là đối tượng Đảng, tổ chức cơ sở Đoàn cần tăng cường phối hợp với cấp ủy đảng phân công, giao nhiệm vụ để đoàn viên ưu tú được rèn luyện và thử thách về mọi mặt; phối hợp với đảng viên được phân công theo dõi, giúp đỡ đoàn viên ưu tú để giáo dục, bồi dưỡng, hỗ trợ đoàn viên ưu tú hoàn thành nhiệm vụ được giao.",
+              "activities": [
+                "Hàng quý, ban chấp hành chi đoàn, đoàn cơ sở tiến hành nhận xét số đoàn viên ưu tú được công nhận là đối tượng Đảng, đồng thời chỉ rõ những nhược điểm, tồn tại để đoàn viên tiếp tục phấn đấu. Phát huy vai trò của đảng viên trẻ đang tham gia sinh hoạt tại chi đoàn trong việc giúp đỡ đoàn viên ưu tú phấn đấu, rèn luyện.",
+                "Ban chấp hành đoàn cơ sở chủ động đề nghị với cấp ủy Đảng mở lớp tìm hiểu về Đảng cho đoàn viên ưu tú; tăng cường tham mưu tổ chức gặp gỡ, đối thoại giữa lãnh đạo cấp ủy với đoàn viên ưu tú.",
+                "Trường hợp đoàn viên ưu tú chuyển nơi học tập, công tác, lao động thì Ban Chấp hành Đoàn cấp cơ sở có trách nhiệm chuyển giao toàn bộ hồ sơ của đoàn viên ưu tú và báo cáo cấp ủy cùng cấp chuyển hồ sơ của đối tượng đảng (có nhận xét về quá trình phấn đấu) về cơ sở mới để tiếp tục theo dõi, bồi dưỡng."
+              ]
+            },
+            {
+              "step": 4,
+              "title": "Giới thiệu đoàn viên ưu tú cho đảng xem xét, kết nạp",
+              "description": "Sau khi đoàn viên ưu tú được học bồi dưỡng nhận thức về Đảng, được cấp ủy công nhận là đối tượng Đảng và được phân công đảng viên theo dõi, giúp đỡ, đủ điều kiện để thực hiện quy trình thủ tục kết nạp Đảng thì trên cơ sở ý kiến của cấp ủy cơ sở về việc phát triển đảng viên mới, Ban chấp hành Đoàn cơ sở hướng dẫn và tiến hành thực hiện thủ tục giới thiệu đoàn viên ưu tú cho Đảng xem xét kết nạp.",
+              "process": [
+                "Trên cơ sở hướng dẫn của đoàn cơ sở, Ban Chấp hành Chi đoàn tổ chức hội nghị chi đoàn lấy ý kiến đoàn viên trong chi đoàn giới thiệu đoàn viên ưu tú giới thiệu cho Đảng (trong trường hợp giới thiệu nhiều đoàn viên ưu tú thì phải nhận xét từng người một). Khuyến khích nên mời đại diện cấp ủy cùng tham dự và có ý kiến chỉ đạo, đánh giá quá trình phấn đấu của đoàn viên ưu tú. Chi đoàn hoàn thiện hồ sơ bao gồm: Công văn đề nghị, biên bản hội nghị và trích ngang lý lịch của đoàn viên ưu tú gửi báo cáo Ban chấp hành đoàn cơ sở.",
+                "Đoàn cơ sở khi nhận được hồ sơ đề nghị của chi đoàn thì phải họp ban chấp hành để xét ra nghị quyết giới thiệu đoàn viên ưu tú vào Đảng. Nội dung Nghị quyết cần nêu rõ những ưu điểm, khuyết điểm của đoàn viên về phẩm chất chính trị, đạo đức lối sống, năng lực công tác, quan hệ quần chúng; số ủy viên tán thành và số ủy viên không tán thành giới thiệu đoàn viên ưu tú cho Đảng xem xét kết nạp (đối với những đoàn cơ sở có địa bàn hoạt động rộng thì việc xét đoàn viên ưu tú giới thiệu với Đảng có thể do tập thể ban thường vụ xét và ra nghị quyết giới thiệu). Sau đó, gửi nghị quyết kèm theo biên bản họp và hồ sơ đề nghị của chi đoàn về chi bộ Đảng nơi có đối tượng. Đồng thời thông báo kết quả với chi đoàn.",
+                "Đối với chi đoàn cơ sở thì do Ban chấp hành chi đoàn cơ sở ra nghị quyết giới thiệu đoàn viên ưu tú vào Đảng. Đối với đoàn bộ phận thì thực hiện trình tự giới thiệu đoàn viên ưu tú cho đảng như Đoàn cơ sở."
+              ]
+            },
+            {
+              "step": 5,
+              "title": "Tiếp tục theo dõi quá trình phấn đấu của đảng viên dự bị",
+              "description": "Đảng viên dự bị sau khi kết nạp vẫn tiếp tục sinh hoạt đoàn theo quy định (nếu chưa trưởng thành đoàn). Khi hết thời gian dự bị, chi đoàn tổ chức họp nhận xét đảng viên dự bị đề nghị chuyển đảng chính thức và gửi biên bản họp kèm theo công văn đề nghị, bản tự kiểm điểm của đảng viên dự bị cho chi bộ và đoàn cấp trên trực tiếp để tiến hành thủ tục chuyển đảng chính thức.",
+              "process": [
+                "Trên cơ sở đề nghị của chi đoàn, ban chấp hành đoàn cơ sở tiến hành nhận xét đảng viên dự bị đề nghị chuyển đảng chính thức (ở những đoàn cơ sở không có điều kiện họp tập trung thì ban chấp hành có thể thực hiện việc xin ý kiến bằng phiếu).",
+                "Sau đó gửi biên bản họp Ban chấp hành đoàn cơ sở (hoặc bảng tổng hợp ý kiến) gửi chi bộ nơi quản lý đảng viên dự bị để chi bộ xem xét đề nghị đảng ủy cơ sở công nhận đảng viên chính thức."
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "huongDanCongTacDoanVien": {
+    "phatTrienDoanVien": {
+      "title": "I. CÔNG TÁC PHÁT TRIỂN ĐOÀN VIÊN",
+      "sections": {
+        "1": {
+          "title": "Điều kiện độ tuổi, trình độ học vấn của người được kết nạp vào Đoàn",
+          "conditions": [
+            "Tại thời điểm xét kết nạp, người được kết nạp vào Đoàn tuổi từ 16 (từ đủ 15 tuổi + 1 ngày) và không quá 30 tuổi.",
+            "Thanh niên Việt Nam có lý lịch rõ ràng là người khai đầy đủ, trung thực tất cả các nội dung liên quan đến lịch sử chính trị và các vấn đề lịch sử hiện nay của bản thân theo mẫu sơ yếu lý lịch do Trung ương Đoàn ban hành.",
+            "Người được kết nạp vào Đoàn tối thiểu có trình độ tiểu học. Đối với thanh niên đang sinh sống ở miền núi, biên giới, hải đảo, vùng đồng bào dân tộc thiểu số và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì vận dụng linh hoạt.",
+            {
+              "special_cases": [
+                "Trường hợp thanh niên có nguyện vọng vào Đoàn, hăng hái tham gia các hoạt động do Đoàn tổ chức, có tín nhiệm với thanh niên, nhưng có bố mẹ, anh, chị, em ruột đang bị giam giữ, trước khi xét kết nạp phải xin ý kiến của cấp ủy đảng cùng cấp.",
+                "Trường hợp thanh niên làm việc trong các cơ quan, đơn vị, doanh nghiệp chưa có tổ chức Đoàn, hăng hái tham gia các hoạt động do Đoàn tổ chức ở nơi cư trú, có tín nhiệm với thanh niên và có nguyện vọng vào Đoàn thì chi đoàn nơi cư trú xét, đề nghị, ban chấp hành Đoàn xã, phường, thị trấn ra quyết định chuẩn y kết nạp."
+              ]
+            }
+          ]
+        },
+        "2": {
+          "title": "Thủ tục kết nạp đoàn viên",
+          "procedures": [
+            "Thanh niên vào Đoàn TNCS Hồ Chí Minh tự nguyện viết đơn, báo cáo lý lịch của mình với chi đoàn, chi đoàn cơ sở.",
+            "Được học Điều lệ Đoàn và trang bị những kiến thức cơ bản về Đoàn trước khi kết nạp.",
+            "Được một đoàn viên hoặc một đảng viên (với những nơi chưa có tổ chức Đoàn) giới thiệu. Đoàn viên hoặc đảng viên giới thiệu phải là người cùng công tác, lao động hoặc học tập với người được giới thiệu ít nhất 3 tháng liên tục. Đối với hội viên Hội Liên hiệp thanh niên Việt Nam do tập thể chi hội giới thiệu. Đối với hội viên Hội Sinh viên Việt Nam do ban chấp hành chi hội giới thiệu. Đối với đội viên Đội Thiếu niên Tiền phong Hồ Chí Minh do tập thể chi đội giới thiệu.",
+            "Hội nghị chi đoàn, chi đoàn cơ sở tiến hành xét kết nạp từng người một với sự biểu quyết tán thành của trên một phần hai số đoàn viên có mặt tại hội nghị và được đoàn cấp trên trực tiếp ra quyết định chuẩn y (đối với chi đoàn); đối với chi đoàn cơ sở thì chi đoàn cơ sở ra nghị quyết kết nạp.",
+            "Trường hợp đặc biệt ở miền núi, biên giới, hải đảo, vùng đồng bào dân tộc thiểu số và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn các đơn vị công tác phân tán không có điều kiện họp được toàn thể chi đoàn, nếu được đoàn cấp trên đồng ý thì việc xét kết nạp có thể do ban chấp hành chi đoàn xét và đoàn cấp trên trực tiếp chuẩn y.",
+            "Trường hợp thanh niên đang học bậc trung học phổ thông nơi chưa có tổ chức chi đoàn thì việc kết nạp đoàn viên do ban chấp hành đoàn trường thực hiện."
+          ]
+        },
+        "3": {
+          "title": "Quy trình phát triển đoàn viên",
+          "steps": [
+            {
+              "step": 1,
+              "description": "Chi đoàn, đoàn cơ sở tổ chức tuyên truyền giới thiệu về tổ chức Đoàn cho thanh niên thông qua các hoạt động của Đoàn, Hội, Đội."
+            },
+            {
+              "step": 2,
+              "description": "Chi đoàn, đoàn cơ sở xây dựng kế hoạch kết nạp đoàn viên.",
+              "subtasks": [
+                "Lập danh sách thanh niên tiên tiến và đội viên trưởng thành.",
+                "Lựa chọn đối tượng theo các tiêu chuẩn kết nạp đoàn viên.",
+                "Phân công đoàn viên giúp đỡ, dự kiến thời gian bồi dưỡng, thời gian tổ chức kết nạp."
+              ]
+            },
+            {
+              "step": 3,
+              "description": "Chi đoàn, đoàn cơ sở bồi dưỡng giáo dục, rèn luyện thanh, thiếu niên vào Đoàn.",
+              "methods": [
+                "Mở lớp bồi dưỡng tìm hiểu về Đoàn cho đối tượng thanh niên tiên tiến, đội viên trưởng thành đang trong quá trình xem xét kết nạp (nơi có điều kiện có thể cấp giấy chứng nhận đã học qua lớp bồi dưỡng tìm hiểu về Đoàn cho thanh, thiếu niên).",
+                "Ở những nơi không có điều kiện mở lớp tập trung thì có hình phù hợp để thanh niên học tập thức, nghiên cứu sau đó kiểm tra."
+              ]
+            },
+            {
+              "step": 4,
+              "description": "Tiến hành các thủ tục và tổ chức kết nạp đoàn viên mới.",
+              "procedures": [
+                "Chi đoàn hướng dẫn thanh niên tự khai lý lịch và viết đơn (theo mẫu sổ đoàn viên).",
+                "Hội nghị chi đoàn xét, báo cáo lên ban chấp hành đoàn cấp trên.",
+                "Ban chấp hành đoàn cấp trên ra quyết định chuẩn y kết nạp.",
+                "Chi đoàn tổ chức kết nạp đoàn viên mới, trao Huy hiệu Đoàn, Thẻ đoàn viên.",
+                "Hoàn chỉnh hồ sơ để quản lý đoàn viên, tiếp tục bồi dưỡng tạo điều kiện để đoàn viên mới rèn luyện."
+              ],
+              "note": "Đối với những nơi không có chi đoàn, ban chấp hành đoàn cơ sở hoặc chi đoàn cơ sở thực hiện quy trình công tác phát triển đoàn viên và quyết định kết nạp đoàn viên."
+            }
+          ]
+        },
+        "4": {
+          "title": "Lễ kết nạp đoàn viên",
+          "preparation": [
+            "Thông báo đến đoàn viên chi đoàn và phân công chuẩn bị lễ kết nạp.",
+            "Mời dự lễ kết nạp: đoàn viên, thanh niên được kết nạp (có thể mời thêm gia đình, bạn thân của người được kết nạp cùng dự), cấp ủy chi bộ, lãnh đạo khu phố, tổ dân phố, Đoàn cấp trên."
+          ],
+          "program": [
+            "Chào cờ (Quốc ca, Đoàn ca).",
+            "Tuyên bố lý do, giới thiệu đại biểu.",
+            "Bí thư (phó bí thư) chi đoàn báo cáo việc xét kết nạp đoàn viên mới. Nêu ngắn gọn về quá trình rèn luyện phấn đấu, những ưu điểm và hạn chế cơ bản của người được kết nạp. Đọc nghị quyết chuẩn y kết nạp, quyết định trao Thẻ đoàn của Đoàn cấp trên (người được kết nạp đứng lên).",
+            "Đại diện Đoàn cấp trên hoặc cấp ủy Đảng trao Nghị quyết, Thẻ đoàn viên và Huy hiệu cho đoàn viên mới (trường hợp không có cấp ủy đảng và đoàn cấp trên cùng dự thì bí thư hoặc phó bí thư chi đoàn thực hiện).",
+            {
+              "loiHua": "Đoàn viên mới đọc lời hứa: “Được vinh dự trở thành Đoàn viên Đoàn TNCS Hồ Chí Minh, trước cờ Tổ quốc, cờ Đoàn, trước chân dung Chủ tịch Hồ Chí Minh vĩ đại, trước toàn thể các đồng chí, tôi xin hứa:\n+ Luôn phấn đấu vì lý tưởng của Đảng và Bác Hồ. Tích cực học tập, lao động rèn luyện, tham gia các hoạt động xã hội, xây dựng và bảo vệ Tổ quốc.\n+ Gương mẫu chấp hành và vận động thanh thiếu nhi thực hiện đường lối, chủ trương của Đảng, chính sách và pháp luật của Nhà nước. Tham gia xây dựng, bảo vệ Đảng, chính quyền và các đoàn thể nhân dân.\n+ Chấp hành Điều lệ Đoàn và các nghị quyết của Đoàn; tích cực tuyên truyền về tổ chức Đoàn trong thanh niên; sinh hoạt Đoàn và đóng đoàn phí đúng quy định.\n+ Liên hệ mật thiết với thanh niên, tích cực xây dựng Hội Liên hiệp Thanh niên Việt Nam, Hội Sinh viên Việt Nam và các thành viên khác của Hội Liên hiệp Thanh niên Việt Nam, Đội Thiếu niên Tiền phong Hồ Chí Minh; giúp đỡ thanh niên và đội viên trở thành đoàn viên. Xin hứa!"
+            },
+            "Người giới thiệu thanh niên vào Đoàn phát biểu hứa tiếp tục giúp đỡ đoàn viên mới.",
+            "Đại diện Đoàn cấp trên hoặc cấp ủy phát biểu.",
+            "Chào cờ bế mạc (Quốc ca, Đoàn ca)."
+          ],
+          "notes": [
+            "Sau khi đoàn cấp trên có quyết định chuẩn y kết nạp đoàn viên mới, trong vòng một tháng kể từ ngày ký quyết định, chi đoàn có trách nhiệm tổ chức lễ kết nạp cho đoàn viên mới.",
+            "Đoàn viên được cấp Thẻ đoàn viên trong lễ kết nạp hoặc chậm nhất không quá 01 tháng kể từ ngày được kết nạp vào Đoàn. Việc trao thẻ đoàn viên có thể do các cấp bộ Đoàn tổ chức, nhưng không thay thế Lễ kết nạp đoàn viên của chi đoàn. Có thể tổ chức trao thẻ đoàn viên trong các hoạt động phong trào phù hợp khác."
+          ]
+        }
+      }
+    }
+  }
+}

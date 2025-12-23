@@ -1,0 +1,24 @@
+{
+  "huongDanCongTacDoanVien": {
+    "doiMoiPhuongThucQuanLy": {
+      "title": "IV. ĐỔI MỚI PHƯƠNG THỨC QUẢN LÝ ĐOÀN VIÊN",
+      "muc_tieu": "Để công tác quản lý đoàn viên ngày càng đi vào nề nếp, chính xác, nhanh chóng và hiệu quả các cấp bộ đoàn cần đổi mới phương thức trong quản lý đoàn viên, đẩy mạnh việc ứng dụng công nghệ thông tin và sử dụng các nghiệp vụ trên Phần mềm Quản lý đoàn viên, cụ thể như sau:",
+      "sections": {
+        "du_lieu_doan_vien": {
+          "title": "Về dữ liệu đoàn viên",
+          "requirements": [
+            "Đoàn viên của tổ chức Đoàn TNCS Hồ Chí Minh phải có dữ liệu chính xác và đầy đủ trên Phần mềm Quản lý đoàn viên (Lưu ý: Đoàn viên khối lực lượng vũ trang không bắt buộc phải nhập thông tin).",
+            "Khi có sự biến động về số lượng đoàn viên trên thực tế (như kết nạp mới, chuyển sinh hoạt đoàn, xóa tên đoàn viên, trưởng thành đoàn) các cấp bộ đoàn phải thực hiện đồng thời trên Phần mềm Quản lý đoàn viên để đánh giá đúng, chính xác tình hình đoàn viên của tổ chức."
+          ]
+        },
+        "nghiep_vu_quan_ly": {
+          "title": "Về thực hiện các nghiệp vụ quản lý đoàn viên",
+          "requirements": [
+            "100% nghiệp vụ liên quan đến quản lý đoàn viên phải được thực hiện đồng thời trên Phần mềm Quản lý đoàn viên.",
+            "Căn cứ vào phân cấp quản lý, tại tài khoản của mỗi cấp trên Phần mềm Quản lý đoàn viên sẽ có chức năng thực hiện nghiệp vụ khác nhau, các cấp bộ đoàn cần nắm vững nguyên tắc và quy trình thực hiện nghiệp vụ quản lý đoàn viên để thực hiện chính xác theo thẩm quyền."
+          ]
+        }
+      }
+    }
+  }
+}

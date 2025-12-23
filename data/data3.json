@@ -1,0 +1,229 @@
+{
+  "huongDanCongTacDoanVien": {
+    "quanLyDoanVien": {
+      "title": "II. CÔNG TÁC QUẢN LÝ ĐOÀN VIÊN",
+      "sections": {
+        "1": {
+          "title": "Quản lý hồ sơ đoàn viên, thẻ đoàn viên",
+          "general_regulations": "Mỗi đoàn viên TNCS Hồ Chí Minh đều có Sổ đoàn viên, Huy hiệu Đoàn và Thẻ đoàn viên. Sổ đoàn viên, thẻ đoàn viên điện tử trên phần mềm quản lý đoàn viên có giá trị tương đương bản giấy trong trường hợp cần đối chiếu, xác nhận. Hồ sơ đoàn viên: là Sổ đoàn viên theo mẫu do Ban Bí thư Trung ương Đoàn ban hành. Sổ đoàn viên do Đoàn cơ sở, chi đoàn cơ sở quản lý. Đối với các đoàn trường tương đương cấp huyện thì hồ sơ đoàn viên do Đoàn trường quản lý.",
+          "subsections": {
+            "1.1": {
+              "title": "Quản lý hồ sơ đoàn viên",
+              "procedures": [
+                "Ban chấp hành chi đoàn phải có Sổ chi đoàn theo mẫu do Ban Bí thư Trung ương Đoàn ban hành.",
+                "Ban chấp hành đoàn cơ sở có sổ danh sách đoàn viên, theo dõi kết nạp đoàn viên và trao Thẻ đoàn viên; sổ giới thiệu và tiếp nhận sinh hoạt đoàn.",
+                "Hằng năm, ban chấp hành chi đoàn có trách nhiệm ghi nhận xét ưu, khuyết điểm, khen thưởng, kỷ luật và kết quả phân loại đoàn viên vào sổ của từng đoàn viên.",
+                "Chi đoàn, đoàn cơ sở hàng quý; đoàn cấp huyện, cấp tỉnh và tương đương 06 tháng, 01 năm có trách nhiệm báo cáo đầy đủ tình hình công tác đoàn viên của đơn vị mình đối với đoàn cấp trên trực tiếp.",
+                "Đoàn viên phải có sổ đoàn viên để lưu kết quả đánh giá, nhận xét, phân loại đoàn viên hằng năm. Khuyến khích các cơ sở Đoàn ứng dụng công nghệ thông tin để thực hiện các nghiệp vụ trong công tác quản lý đoàn viên."
+              ]
+            },
+            "1.2": {
+              "title": "Quản lý thẻ đoàn viên",
+              "general": "Thẻ đoàn viên có giá trị chứng nhận tư cách đoàn viên Đoàn TNCS Hồ Chí Minh do Ban Chấp hành Trung ương Đoàn thống nhất phát hành.",
+              "regulations": [
+                "Đoàn viên được cấp Thẻ đoàn viên trong lễ kết nạp hoặc chậm nhất không quá 1 tháng kể từ ngày được kết nạp vào Đoàn. Việc cấp Thẻ đoàn viên do ban thường vụ đoàn cấp huyện quyết định.",
+                "Thẻ đoàn viên được dùng để đăng ký tham gia sinh hoạt đoàn tạm thời và xuất trình khi cần.",
+                "Đoàn viên không được cho người khác mượn Thẻ đoàn viên; khi trưởng thành đoàn, đoàn viên được giữ lại Thẻ đoàn viên.",
+                "Đoàn viên bị kỷ luật khai trừ thì bị thu hồi Thẻ đoàn viên; đoàn viên sử dụng Thẻ đoàn viên sai mục đích thì tùy mức độ bị xem xét xử lý kỷ luật. Ban chấp hành chi đoàn, ban thường vụ đoàn cơ sở có trách nhiệm thu hồi Thẻ đoàn viên và nộp cho đoàn cấp huyện quản lý.",
+                "Trung ương Đoàn quản lý số lượng và số hiệu thẻ đoàn viên trên toàn quốc. Các cấp bộ đoàn quản lý số lượng và số hiệu thẻ đoàn viên của địa phương, đơn vị."
+              ],
+              "recovery_procedures": {
+                "lost_card_only": "Trường hợp thất lạc Thẻ đoàn viên nhưng còn Sổ đoàn viên thì đoàn viên làm đơn gửi ban chấp hành chi đoàn để đề nghị đoàn cơ sở tiến hành thủ tục cấp lại Thẻ đoàn viên. Trên cơ sở đề nghị của chi đoàn, ban chấp hành Đoàn cơ sở xem xét đề nghị ban thường vụ Đoàn cấp huyện cấp lại Thẻ cho đoàn viên.",
+                "lost_book_only": {
+                  "condition": "Trong trường hợp này, đoàn viên chỉ được cấp lại Sổ đoàn viên mới khi vẫn tham gia sinh hoạt liên tục trong quá trình thất lạc Sổ đoàn viên và được ban chấp hành chi đoàn chứng nhận đến thời điểm đề nghị được cấp lại Sổ.",
+                  "procedure": "Đoàn viên làm đơn đề nghị được cấp lại Sổ đoàn viên gửi ban chấp hành chi đoàn để đề nghị ban chấp hành đoàn cơ sở xem xét cấp lại Sổ đoàn viên. Trong trường hợp đoàn viên chuyển đến đơn vị lao động, học tập, công tác nhưng bị thất lạc Sổ đoàn viên mà hiện tại vẫn đang sinh hoạt đoàn đầy đủ thì khi đề nghị được cấp lại Sổ đoàn viên mới phải có xác nhận tư cách đoàn viên của Đoàn cơ sở nơi sinh hoạt trước khi mất Sổ đoàn viên (trong thời gian không quá 03 tháng tính đến ngày đề nghị được cấp lại Sổ đoàn viên). Sổ đoàn viên cấp lại được Đoàn cơ sở đóng dấu xác nhận 'Sổ cấp lại' vào thời điểm cấp lại sổ. Nếu là chi đoàn cơ sở thì trực tiếp thực hiện quy trình, thủ tục đối với đoàn viên bị thất lạc Sổ đoàn viên."
+                },
+                "lost_both_but_have_decision": "Trường hợp thất lạc Thẻ đoàn viên và Sổ đoàn viên nhưng còn quyết định (nghị quyết) chuẩn y kết nạp đoàn viên thì đoàn viên làm đơn gửi ban chấp hành chi đoàn để đề nghị cấp lại Sổ đoàn viên và để đoàn cơ sở tổng hợp, trình ban thường vụ đoàn cấp huyện cấp lại Thẻ đoàn viên theo quy định.",
+                "other_cases": "Đối với các trường hợp bị thất lạc hồ sơ đoàn viên nếu không đảm bảo điều kiện để khôi phục lại thì bồi dưỡng, xét kết nạp đoàn viên như Điều 1, Điều lệ Đoàn TNCS Hồ Chí Minh."
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Chuyển sinh hoạt Đoàn",
+          "subsections": {
+            "2.1": {
+              "title": "Nguyên tắc",
+              "principles": [
+                "Đoàn viên khi thay đổi nơi cư trú, đơn vị công tác, học tập phải chuyển sinh hoạt đoàn. Thời gian chuyển sinh hoạt đoàn (chuyển hồ sơ đoàn viên về nơi mới) không quá 01 tháng kể từ ngày thay đổi nơi cư trú, đơn vị học tập, lao động, công tác.",
+                "Chi đoàn, đoàn cơ sở, chi đoàn cơ sở có trách nhiệm chuyển sinh hoạt Đoàn cho đoàn viên."
+              ]
+            },
+            "2.2": {
+              "title": "Quy trình chuyển sinh hoạt đoàn",
+              "procedures": [
+                "Đoàn viên khi chuyển sinh hoạt đoàn thì đề nghị ban chấp hành chi đoàn (hoặc chi đoàn cơ sở) nơi đang sinh hoạt để được chuyển sinh hoạt.",
+                "Trách nhiệm của ban chấp hành chi đoàn: Nhận xét đoàn viên vào Sổ đoàn viên và thu đoàn phí đến thời điểm chuyển sinh hoạt đoàn (trường hợp đoàn viên sinh hoạt tại chi đoàn cơ sở thì ban chấp hành chi đoàn cơ sở nhận xét, thu đoàn phí và trực tiếp tiến hành thủ tục chuyển sinh hoạt đoàn cho đoàn viên).",
+                "Giới thiệu đoàn viên đến đoàn cơ sở để làm tiếp thủ tục chuyển sinh hoạt Đoàn. Tiếp nhận đoàn viên do đoàn cơ sở hoặc chi đoàn cơ sở giới thiệu đến sinh hoạt.",
+                "Trách nhiệm của đoàn cơ sở, chi đoàn cơ sở: Trường hợp đoàn viên chuyển sinh hoạt trong cùng một đoàn cơ sở thì ban chấp hành đoàn cơ sở giới thiệu đoàn viên về sinh hoạt tại chi đoàn mới. Trường hợp đoàn viên chuyển sinh hoạt sang đoàn cơ sở khác thì ban chấp hành đoàn cơ sở giới thiệu đến ban chấp hành đoàn cơ sở mới. Khi tiếp nhận đoàn viên từ nơi khác giới thiệu đến, ban chấp hành đoàn cơ sở giới thiệu đoàn viên về sinh hoạt tại chi đoàn trực thuộc."
+              ]
+            },
+            "2.3": {
+              "title": "Một số trường hợp khác",
+              "cases": [
+                "Đoàn viên là bộ đội xuất ngũ, chuyển ngành, là học sinh, sinh viên đã tốt nghiệp các trường đang trong thời gian chờ để chuyển lĩnh vực công tác, học tập, lao động mới nếu thời gian chờ từ 03 tháng trở lên thì phải chuyển sinh hoạt về cơ sở đoàn nơi đoàn viên cư trú. Nếu sau 03 tháng khi đã chuyển về nơi mới, đoàn viên không thực hiện chuyển sinh hoạt đoàn theo đúng quy định thì tổ chức cơ sở đoàn nơi mới có thể đề nghị tổ chức cơ sở đoàn trực tiếp quản lý đoàn xét tư cách của đoàn viên đó.",
+                "Chuyển sinh hoạt đoàn tạm thời: Đoàn viên đi học tập, lao động, công tác, đoàn viên là học sinh, sinh viên trong thời gian nghỉ hè, đi thực tập, thực tế với thời gian không quá 03 tháng thì chuyển sinh hoạt đoàn tạm thời đến cơ sở đoàn nơi học tập, lao động, công tác hoặc nơi cư trú mới. Đoàn cơ sở (chi đoàn cơ sở) có trách nhiệm làm thủ tục giới thiệu và tiếp nhận đoàn viên chuyển sinh hoạt đoàn tạm thời.",
+                "Việc chuyển sinh hoạt đoàn tạm thời có thể thực hiện bằng thẻ đoàn viên hoặc giấy chuyển sinh hoạt đoàn tạm thời theo mẫu do Ban Bí thư Trung ương Đoàn quy định. Trong thời gian sinh hoạt tạm thời, đoàn viên thực hiện nhiệm vụ, quyền hạn theo quy định tại Điều 2, Điều 3 của Điều lệ Đoàn TNCS Hồ Chí Minh trừ quyền ứng cử, đề cử và bầu cử cơ quan lãnh đạo của Đoàn nơi đang sinh hoạt tạm thời.",
+                "Đoàn viên chuyển đến những nơi chưa có tổ chức Đoàn vẫn phải làm thủ tục chuyển sinh hoạt đoàn như đã quy định. Khi đến nơi mới, xuất trình hồ sơ và báo cáo với tổ chức Đảng, khi chuyển công tác đi nơi khác đề nghị tổ chức Đảng nhận xét ưu, khuyết điểm và giới thiệu về ban chấp hành đoàn cơ sở nơi tiếp nhận đoàn viên. Trường hợp nơi đoàn viên lao động, học tập, công tác không có tổ chức Đảng, Đoàn thì đoàn viên đó phải sinh hoạt Đoàn ở nơi cư trú.",
+                "Trường hợp do thất lạc hồ sơ đoàn viên thì thủ tục chuyển sinh hoạt đoàn phải có bản tường trình và xác nhận của cơ sở đoàn nơi chuyển đi, được làm lại hồ sơ tại nơi chuyển đến. Trường hợp còn thẻ đoàn viên hoặc những văn bản xác nhận là đoàn viên, đảm bảo các quy định của Điều lệ Đoàn thì làm lại sổ đoàn viên tại nơi chuyển đến (theo mục 3.3, Điều 4, Khoản 5, điểm d của Hướng dẫn này). Các trường hợp khác thì bồi dưỡng, xét kết nạp đoàn viên như Điều 1, Điều lệ Đoàn TNCS Hồ Chí Minh.",
+                "Chuyển sinh hoạt đoàn ra nước ngoài, từ nước ngoài về nước thực hiện theo Hướng dẫn một số nội dung về tổ chức và hoạt động Đoàn TNCS Hồ Chí Minh ở ngoài nước của Ban Chấp hành Trung ương Đoàn TNCS Hồ Chí Minh."
+              ]
+            }
+          }
+        },
+        "3": {
+          "title": "Quản lý đoàn viên tham gia hoạt động đoàn tại nơi cư trú",
+          "reference": "Thực hiện theo Hướng dẫn số 10-HD/TWĐTN-BTC ngày 29/3/2023 của Ban Bí thư Trung ương Đoàn về việc hướng dẫn đoàn viên tham gia hoạt động đoàn tại nơi cư trú giai đoạn 2023-2027."
+        },
+        "4": {
+          "title": "Quản lý đoàn viên đi lao động ở xa, thời gian không ổn định",
+          "definition": "Đoàn viên lao động ở xa, thời gian không ổn định là những đoàn viên rời khỏi địa phương nơi đăng ký hộ khẩu thường trú đến địa phương khác để lao động với việc làm và thời gian không ổn định, không có điều kiện sinh hoạt Đoàn thường xuyên nơi cư trú.",
+          "responsibilities": {
+            "doan_vien": [
+              "Trước mỗi đợt đi lao động ở xa phải báo cáo với ban chấp hành chi đoàn về địa chỉ nơi đến để chi đoàn, đoàn cơ sở hướng dẫn thủ tục chuyển sinh hoạt đoàn tạm thời và giúp đỡ.",
+              "Khi đến nơi lao động, đoàn viên liên hệ với chi đoàn, đoàn cơ sở nơi đến để đăng ký tham gia sinh hoạt đoàn; được dùng thẻ đoàn viên hoặc giấy chuyển sinh hoạt đoàn để sinh hoạt tạm thời."
+            ],
+            "co_so_doan_di": [
+              "Chi đoàn lập sổ theo dõi danh sách đoàn viên kèm theo địa chỉ nơi đến của số đoàn viên đi lao động ở xa, thời gian không ổn định và báo cáo cho đoàn cơ sở để theo dõi.",
+              "Đoàn cơ sở chuyển sinh hoạt đoàn tạm thời cho đoàn viên bằng giấy chuyển sinh hoạt hoặc hướng dẫn đoàn viên dùng thẻ đoàn viên để đăng ký sinh hoạt tạm thời."
+            ],
+            "co_so_doan_den": [
+              "Đoàn cơ sở tiếp nhận thủ tục sinh hoạt tạm thời và giới thiệu đoàn viên về các chi đoàn.",
+              "Những địa bàn tập trung đông đoàn viên là lao động tự do và đã có đăng ký tạm trú thì đoàn cơ sở ở nơi đó có thể thành lập các chi đoàn trực thuộc để tổ chức các hoạt động."
+            ]
+          }
+        },
+        "5": {
+          "title": "Trưởng thành Đoàn",
+          "subsections": {
+            "5.1": {
+              "title": "Nguyên tắc",
+              "principles": [
+                "Đoàn viên quá 30 tuổi, chi đoàn làm lễ trưởng thành Đoàn, nếu có nguyện vọng tiếp tục sinh hoạt Đoàn, chi đoàn xem xét, quyết định, nhưng không quá 35 tuổi.",
+                "Đoàn viên quá 30 tuổi nếu được bầu vào cơ quan lãnh đạo các cấp của Đoàn hoặc làm công tác chuyên trách thì tiếp tục hoạt động trong tổ chức Đoàn."
+              ]
+            },
+            "5.2": {
+              "title": "Quy trình, thủ tục tiến hành trưởng thành Đoàn cho đoàn viên",
+              "steps": [
+                {
+                  "step": 1,
+                  "description": "Hàng năm, Ban Chấp hành Chi đoàn lập danh sách những đoàn viên quá 30 tuổi (đối với những đoàn viên không giữ nhiệm vụ trong cơ quan lãnh đạo hoặc không công tác trong cơ quan chuyên trách của Đoàn) và danh sách những đoàn viên quá 35 tuổi (đối với những đoàn viên giữ nhiệm vụ trong cơ quan lãnh đạo hoặc công tác trong cơ quan chuyên trách của Đoàn), thông báo cho đoàn viên."
+                },
+                {
+                  "step": 2,
+                  "description": "Tổ chức gặp mặt để nắm bắt nguyện vọng của đoàn viên. Đối với những đoàn viên quá 30 tuổi không giữ nhiệm vụ trong cơ quan lãnh đạo hoặc không công tác trong cơ quan chuyên trách của Đoàn, nếu đoàn viên có nguyện vọng tiếp tục sinh hoạt đoàn thì Chi đoàn xem xét để đoàn viên tiếp tục tham gia sinh hoạt đoàn nhưng không quá 35 tuổi. Nếu đoàn viên có nguyện vọng trưởng thành thì chi đoàn lập danh sách và báo cáo với Ban Chấp hành Đoàn cơ sở."
+                },
+                {
+                  "step": 3,
+                  "description": "Chi đoàn tổ chức Lễ trưởng thành đoàn cho đoàn viên."
+                }
+              ]
+            },
+            "5.3": {
+              "title": "Chương trình Lễ trưởng thành đoàn",
+              "program": [
+                "Chào cờ (Quốc ca, Đoàn ca).",
+                "Tuyên bố lý do, giới thiệu đại biểu.",
+                "Giới thiệu tóm tắt quá trình sinh hoạt Đoàn và những thành tích đóng góp của đoàn viên trưởng thành.",
+                "Trao 'Giấy chứng nhận trưởng thành đoàn' và tặng phẩm kỷ niệm (nếu có) cho đoàn viên trưởng thành (mẫu giấy chứng nhận trưởng thành do chi đoàn/chi đoàn cơ sở quyết định).",
+                "Đoàn viên (hoặc đại diện đoàn viên) trưởng thành đoàn phát biểu cảm tưởng.",
+                "Bí thư/Đại diện Ban Chấp hành chi đoàn phát biểu.",
+                "Đại diện cấp ủy hoặc các đại biểu khác phát biểu (nếu có).",
+                "Chào cờ (Quốc ca, Đoàn ca)."
+              ],
+              "notes": [
+                "Lễ trưởng thành đoàn phải được chuẩn bị chu đáo, trang trọng và tạo ấn tượng với đoàn viên được trưởng thành đoàn.",
+                "Nếu đoàn viên trưởng thành là đoàn viên ưu tú thì trong buổi lễ trưởng thành cần tiến hành luôn việc giới thiệu đoàn viên ưu tú cho Đảng xem xét, bồi dưỡng kết nạp."
+              ]
+            }
+          }
+        },
+        "6": {
+          "title": "Đoàn viên danh dự",
+          "subsections": {
+            "6.1": {
+              "title": "Đối tượng",
+              "description": "Đoàn viên danh dự là những người thực sự tiêu biểu, là tấm gương sáng cho đoàn viên, thanh thiếu nhi noi theo, có tâm huyết và có nhiều đóng góp với Đoàn, có uy tín trong thanh thiếu nhi và xã hội; là những người đã trưởng thành đoàn và đồng ý làm đoàn viên danh dự."
+            },
+            "6.2": {
+              "title": "Quyền của đoàn viên danh dự",
+              "rights": [
+                "Được tham dự một số sinh hoạt và hoạt động của Đoàn.",
+                "Được tham gia thảo luận, hoạt động và đề xuất ý kiến về các công việc của Đoàn và phong trào thanh thiếu nhi.",
+                "Tích cực tham gia vào công tác giáo dục đoàn viên, thanh thiếu nhi, tuyên truyền, mở rộng ảnh hưởng của Đoàn trong thanh thiếu nhi và xã hội."
+              ]
+            },
+            "6.3": {
+              "title": "Quy trình, thủ tục và thẩm quyền xét kết nạp",
+              "steps": [
+                {
+                  "step": 1,
+                  "description": "Chi đoàn rà soát, lập danh sách những đoàn viên đã trưởng thành đoàn, có đủ điều kiện, tiêu chuẩn và sẵn sàng làm đoàn viên danh dự; báo cáo lên Đoàn cơ sở."
+                },
+                {
+                  "step": 2,
+                  "description": "Đoàn cơ sở tổng hợp danh sách, báo cáo lên Ban Thường vụ đoàn cấp huyện và tương đương để xem xét, quyết định."
+                },
+                {
+                  "step": 3,
+                  "description": "Sau khi có Quyết định của Ban Thường vụ Đoàn cấp huyện và tương đương, Đoàn cơ sở tổ chức lễ kết nạp đoàn viên danh dự."
+                }
+              ]
+            },
+            "6.4": {
+              "title": "Chương trình Lễ kết nạp đoàn viên danh dự",
+              "description": "Lễ kết nạp đoàn viên danh dự phải được tổ chức trang trọng, có tính tôn vinh người được kết nạp và giáo dục đối với đoàn viên, thanh thiếu nhi, bao gồm các nội dung như sau:",
+              "program": [
+                "Chào cờ (Quốc ca, Đoàn ca).",
+                "Tuyên bố lý do, giới thiệu đại biểu.",
+                "Bí thư/Đại diện BCH Đoàn cơ sở giới thiệu tóm tắt quá trình hoạt động, thành tích của người được kết nạp làm đoàn viên danh dự.",
+                "Trao Quyết định kết nạp đoàn viên danh dự.",
+                "Đoàn viên danh dự phát biểu cảm tưởng.",
+                "Đại diện đoàn cấp trên hoặc cấp ủy phát biểu (nếu có).",
+                "Chào cờ (Quốc ca, Đoàn ca)."
+              ]
+            },
+            "6.5": {
+              "title": "Các trường hợp thôi là đoàn viên danh dự",
+              "cases": [
+                "Đoàn viên danh dự có đề nghị xin thôi là đoàn viên danh dự thì ban thường vụ đoàn cấp huyện nơi kết nạp hoặc nơi đoàn viên danh dự sinh sống, học tập, công tác ra thông báo cho thôi là đoàn viên danh dự.",
+                "Đoàn viên danh dự vi phạm pháp luật, kỷ luật, đạo đức có ảnh hưởng đến uy tín của Đoàn thì ban thường vụ đoàn cấp huyện nơi kết nạp hoặc nơi người đó sinh sống, học tập, công tác quyết định xóa tên đoàn viên danh dự."
+              ]
+            }
+          }
+        },
+        "7": {
+          "title": "Xóa tên trong danh sách đoàn viên",
+          "subsections": {
+            "7.1": {
+              "title": "Nguyên tắc",
+              "principle": "Đoàn viên không tham gia sinh hoạt đoàn hoặc không đóng đoàn phí ba tháng trong một năm mà không có lý do chính đáng thì hội nghị chi đoàn xem xét, quyết định xóa tên trong danh sách đoàn viên và báo cáo lên Đoàn cấp trên trực tiếp."
+            },
+            "7.2": {
+              "title": "Quy trình, thủ tục xóa tên đoàn viên",
+              "steps": [
+                {
+                  "step": 1,
+                  "description": "Chi đoàn lập danh sách những đoàn viên không tham gia sinh hoạt đoàn hoặc không đóng đoàn phí ba tháng trong một năm; liên hệ, trao đổi với đoàn viên để nắm thông tin lý do không sinh hoạt/ không đóng đoàn phí."
+                },
+                {
+                  "step": 2,
+                  "description": "Trong trường hợp đoàn viên không sinh hoạt/không đóng đoàn phí ba tháng trong năm mà không có lý do chính đáng thì tổ chức hội nghị chi đoàn, xem xét quyết định xóa tên đoàn viên."
+                },
+                {
+                  "step": 3,
+                  "description": "Lập danh sách những đoàn viên bị xóa tên và báo có lên Đoàn cơ sở để lưu thông tin trong hồ sơ đoàn viên."
+                }
+              ],
+              "notes": [
+                "Trường hợp đoàn viên thường xuyên đi học tập, lao động, công tác ở xa không quá 1 năm, trong thời gian đó đoàn viên có báo cáo với ban chấp hành chi đoàn và sau mỗi đợt đi về vẫn tham gia sinh hoạt, đóng đoàn phí đầy đủ và có những đóng góp cho hoạt động của chi đoàn thì không coi là bỏ sinh hoạt và không xóa tên trong danh sách đoàn viên.",
+                "Việc xóa tên đoàn viên không được coi là hình thức kỷ luật của Đoàn."
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
